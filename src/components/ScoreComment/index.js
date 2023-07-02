@@ -20,7 +20,7 @@ const ScoreComment = props => {
       </p>
     )
     comment = commentText
-  } else if (score < 11) {
+  } else if (score < 12) {
     const commentText = (
       <p className="comment">
         Abbo nuvvu manishive aithe, sare inkosari try chesuko.
