@@ -1,0 +1,64 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  background-image: linear-gradient(
+    to bottom right,
+    #9796f0 0.5%,
+    #fbc7d4 150%
+  );
+  min-height: 100vh;
+}
+
+.emoji-game-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /*flex: 1;*/
+}
+
+.emojis-list-container {
+  display: flex;
+  /*justify-content: space-between;*/
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 80%;
+  /*margin: auto;*/
+  padding: 0px;
+  max-width: 1000px;
+  margin-top: 55px;
+}
+.active {
+  background-color: #ffffff33;
+  border: 1px solid white;
+  border-radius: 4px;
+  display: flex;
+  margin-top: 15px;
+  margin-left: 15px;
+  align-self: flex-start;
+}
+.instruction {
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: 500;
+  width: 200px;
+  margin-left: 12px;
+}
+.btn {
+  background-color: transparent;
+  border: 1px solid white;
+  align-self: flex-end;
+  border-radius: 4px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  padding: 3px;
+  cursor: pointer;
+}
+.inactive {
+  display: none;
+}
+@media (min-width: 768px) {
+  .emojis-list-container {
+    width: 55%;
+    max-width: 700px;
+  }
+}
