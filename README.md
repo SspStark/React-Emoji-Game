@@ -1,6 +1,6 @@
 # [Emoji Game](https://sspemojigame.ccbp.tech/)
 
-#### [click here](https://sspemojigame.ccbp.tech/) to play the Emoji Game
+#### [click here](https://sspemojigame.ccbp.tech/) to play the Emoji Game.
 
 ### Refer to the image below:
 
