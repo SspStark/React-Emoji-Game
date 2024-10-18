@@ -1,4 +1,6 @@
-In this project, let's build an **Emoji Game** by applying the concepts we have learned till now.
+# [Emoji Game](https://sspemojigame.ccbp.tech/)
+
+#### [click here](https://sspemojigame.ccbp.tech/) to play the Emoji Game.
 
 ### Refer to the image below:
 
