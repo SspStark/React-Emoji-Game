@@ -1,4 +1,4 @@
-//import ScoreComment from '../ScoreComment'
+// import ScoreComment from '../ScoreComment'
 
 import './index.css'
 
@@ -24,7 +24,7 @@ const WinOrLoseCard = props => {
         >
           Play Again
         </button>
-        //<ScoreComment score={score} />
+        {/* <ScoreComment score={score} /> */}
       </div>
       <div className="image-section">
         <img className="win-or-lose-image" src={imageUrl} alt="win or lose" />
